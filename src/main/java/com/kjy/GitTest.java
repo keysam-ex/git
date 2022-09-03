@@ -14,5 +14,6 @@ public class GitTest {
         System.out.println("第五次主人合并");
         System.out.println("奴隶的头头");
         System.out.println("ssssssss");
+        System.out.println("pull test");
     }
 }
