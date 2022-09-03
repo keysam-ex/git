@@ -12,6 +12,6 @@ public class GitTest {
         System.out.println("世界你好");
         System.out.println("第四次哈哈哈哈");
         System.out.println("第五次主人合并");
-        System.out.println("奴隶的调教");
+        System.out.println("奴隶的头头");
     }
 }
